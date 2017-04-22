@@ -1,0 +1,18 @@
+{
+  "name": "howfuckinglonguntilthegeneralelectionisover",
+  "version": "0.0.0",
+  "description": "For anyone who wants to know how fucking long until the general election is over",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JoeHaHart/howfuckinglonguntilthegeneralelectionisover.git"
+  },
+  "author": "Joe Hart",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/JoeHaHart/howfuckinglonguntilthegeneralelectionisover/issues"
+  }
+}
